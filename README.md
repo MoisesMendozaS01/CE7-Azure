@@ -4,3 +4,4 @@
 |---|---|
 |Semana 1 |[Sesion 1](/sesion1.md)|
 |Semana 1 | [Sesion 2](/sesion2.md) |
+|Semana 1 | [Sesion 3](/sesion3.md)
