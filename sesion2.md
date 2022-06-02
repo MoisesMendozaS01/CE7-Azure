@@ -109,3 +109,17 @@ Proporciona servicios de aprendizaje automático (prefabricados).
 
 **IoT**
 Proporciona servicios de IoT (internet of things) para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc.
+
+**Requerimientos mínimos para un servicio de Azure**
+*   Suscripción
+*   Grupo de recursos
+*   Región
+*   Nombre
+
+**Dentro de una cuenta de Azure puedes tener varias suscripciones*
+
+Los servicios de Azure te cobran por:
+* Hora
+* Mes
+* Transacción 
+* Datos

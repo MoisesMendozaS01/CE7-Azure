@@ -10,6 +10,7 @@ Es un conjunto de métodos matemáticos, programación y tecnológia para imitar
 
 **Generacion de respuestas**
 Programación tradicional
+
 **Generacioón de reglas**
 Inteligencia Artificial
 
