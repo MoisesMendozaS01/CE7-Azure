@@ -11,6 +11,7 @@
 **Azure ejercicios**
 |SERVICIO AZURE| DESCRIPCIÓN|EJEMPLO|
 |---|---|---|
-|Inicio Azure|Explorando el portal de Azure|[Portal Azure](/azure1.md)|
+|[Inicio Azure](https://portal.azure.com)|Explorando el portal de Azure|[Portal Azure](/azure1.md)|
 |Marketplace|Tienda de Azure|[Marketplace](azure2.md)|
 |Wordpress|Crea páginas web desde 0|[Ejercicio Wordpress](/azure3.md)|
+|[Azure Machine Learning](https://ml.azure.com/home)|Machine Learning de Azure, Area de trabajos de Azure||

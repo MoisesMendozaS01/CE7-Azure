@@ -65,5 +65,5 @@ Para ello debes de:
 
 |Nombre|Descripción|Ejercicio|
 |---|---|---|
-|Artbredeer|(Red generativa antagonica)Usar una inteligencia artificial para generar una imagen a partir de otros genes|[Kanade](https://twitter.com/MendozaMDev/status/1531110758737657857?t=oWvU75HxcCDAAuT64656qA&s=19)|
-|VQGAN|(Red generativa antagonica) Usar inteligencia artificial para generar una imagen a partir de un texto 'World'|[World](https://twitter.com/MendozaMDev/status/1531147437527687168?t=noDLlz-pvuq-_SG57i5Eqg&s=19)|
+|[Artbredeer](https://www.artbreeder.com/beta/browse)|(Red generativa antagonica)Usar una inteligencia artificial para generar una imagen a partir de otros genes|[Kanade](https://twitter.com/MendozaMDev/status/1531110758737657857?t=oWvU75HxcCDAAuT64656qA&s=19)|
+|[VQGAN](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT?pli=1#scrollTo=g7EDme5RYCrt)|(Red generativa antagonica) Usar inteligencia artificial para generar una imagen a partir de un texto 'World'|[World](https://twitter.com/MendozaMDev/status/1531147437527687168?t=noDLlz-pvuq-_SG57i5Eqg&s=19)|
